@@ -1,3 +1,4 @@
+import utils.session
 class Value:
     def __init__(self,data,operation = None,parents = None):
         self.data = data
